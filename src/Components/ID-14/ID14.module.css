@@ -1,0 +1,80 @@
+.container{
+    padding: 340px 512px 628px 512px;
+}
+.header{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48.9827px;
+    line-height: 57px;
+    color: #024C73;
+    margin-bottom: 52px;
+    text-align: center;
+}
+.inputContainer{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.3685px;
+    line-height: 22px;
+    color: #8E8E8E;
+}
+.emailField{
+    border: 1.53071px solid #E3E3E3;
+    border-radius: 9.18425px;
+    width: 100%;
+    padding: 17px 0 17px 14px;
+    margin-bottom: 13px;
+}
+.passwordContainer{
+    border: 1.53071px solid #E3E3E3;
+    border-radius: 9.18425px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 13px;
+}
+.passwordField{
+    border: 0;
+    width: 100%;
+    padding: 17px 0 17px 14px;
+}
+.checkbox{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.715px;
+    line-height: 13px;
+    color: #8E8E8E;
+}
+.showPassword{
+    background-color: white;
+    border: 0;
+    margin-right: 23px;
+}
+.forgotPass{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.2457px;
+    line-height: 14px;
+    text-decoration-line: underline;
+    color: #024C73;
+    margin-bottom: 0;
+    background-color: white;
+    border: 0;
+}
+.login{
+    background: #024C73;
+    border-radius: 9.18425px;
+    color: white;
+    width: 100%;
+    margin-top: 23px;
+    padding: 14px 0;
+    border: 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24.4913px;
+    line-height: 30px;
+}

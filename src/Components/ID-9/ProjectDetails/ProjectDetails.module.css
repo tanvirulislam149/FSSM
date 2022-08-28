@@ -1,0 +1,90 @@
+.image{
+    height: 80px;
+    width: 77px;
+    background-color: #D9D9D9;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17.91px;
+    line-height: 21px;
+    color: #024C73;
+    margin-top: 20px;
+    margin-bottom: 11px;
+}
+
+.viewButton{
+    width: 185px;
+    height: 38px;
+    background: #024C73;
+    border: 0;
+    border-radius: 12px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14.328px;
+    line-height: 17px;
+}
+
+.detailsText{
+    text-align: justify;
+    width: 680px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8E8E8E;
+    margin-top: 9px;
+    margin-bottom: 17px;
+}
+
+.useCasesHeader{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #024C73;
+    margin-bottom: 0;
+    padding-top: 8px;
+}
+
+
+.useCasesText{
+    text-align: justify;
+    width: 680px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6D747A;
+    margin-bottom: 0;
+    padding-bottom: 8px;
+}
+
+.showMore{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.91px;
+    line-height: 21px;
+    color: #CB1537;
+    margin-bottom: 0;
+    border: 0;
+    background-color: white;
+    text-align: center;
+}
+
+.details{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 26px;
+}

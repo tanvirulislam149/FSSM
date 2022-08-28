@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.breadcrumbStyle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: white;
+    /* width: 982px; */
+    height: 46px;
+    padding-left: 13px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+}
+
+.breadcrumbColor {
+    color: #8E8E8E;
+    text-decoration: none;
+}

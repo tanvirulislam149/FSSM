@@ -1,0 +1,97 @@
+.aboutHeading {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 80px;
+    color: #024C73;
+    background-color: white;
+    padding-top: 34px;
+    padding-bottom: 20px;
+    padding-left: 168px;
+    padding-right: 606px;
+}
+
+.searchContainer{
+    margin-top: 65px;
+    margin-left: 172px;
+    margin-right: 172px;
+    background-color: white;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 46px;
+    height: 1135px;
+}
+
+.searchBox{
+    border: 1px solid #E3E3E3;
+    border-radius: 12px;
+    height: 60px;
+    width: 738px;
+    padding: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.crossButton{
+    background-color: white;
+    border: 0;
+    margin-right: 23px;
+}
+.searchButton{
+    background: #2758CA;
+    border-radius: 8px;
+    border: 0;
+    height: 100%;
+    width: 58px;
+}
+
+.advancedSearch{
+    margin-left: 36px;
+    width: 220px;
+    background: #024C73;
+    border-radius: 12px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    border: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.resultContainer{
+    margin-top: 37px;
+}
+.webImage{
+    height: 36px;
+    border: 1px solid #E3E3E3;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.web{
+    border-bottom: 3px solid #2758CA;
+    width: 49%;
+    margin: 0;
+    padding: 6px 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+.image{
+    width: 49%;
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #8E8E8E;
+}
